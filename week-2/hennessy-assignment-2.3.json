@@ -1,0 +1,20 @@
+
+{"class": {
+  "_id": "111",
+  "name": "English 1",
+  "enroll": {
+    "_id": "123",
+    "grade": "Freshman",
+    "student": [
+      {"_id": "3849",
+      "first_name": "Jill",
+      "last_name": "Anderson",
+      "mi": "B"},
+      {"_id": "9374",
+      "first_name": "Keith",
+      "last_name": "Jackson",
+      "mi": "L"}
+    ]
+  }
+}}
+

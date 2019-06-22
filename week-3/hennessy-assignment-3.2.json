@@ -1,0 +1,69 @@
+
+{
+  "user" : {
+    "_id" : "36484",
+    "first_name" : "Jordan",
+    "last_name" : "Hennessy",
+    "username" : "jhennessy",
+    "password" : "password123",
+    "link_user_role" : [
+      {
+      "_id" : "1",
+      "role" : {
+        "_id" : "1003",
+        "name" : "admin",
+        "link_role_permission" : [
+          {
+          "_id" : "102",
+          "name" : "write",
+          "permission" : {
+            "_id" : "4",
+            "type" : "write"
+            }
+          },
+          {
+          "_id" : "105",
+          "name" : "edit",
+          "permission" : {
+            "_id" : "3",
+            "type" : "edit"
+            }
+          },
+          {
+          "_id" : "103",
+          "name" : "delete",
+          "permission" : {
+            "_id" : "2",
+            "type" : "delete"
+            }
+          },
+          {
+          "_id" : "109",
+          "name" : "read",
+          "permission" : {
+            "_id" : "1",
+            "type" : "read"
+            }
+          }
+        ]
+      }},
+      {
+        "_id" : "2",
+        "role" : {
+          "_id" : 1938,
+          "name" : "user",
+          "link_role_permission" : [
+            {
+            "_id" : "109",
+            "name" : "read",
+            "permission" : {
+              "_id" : "1",
+              "type" : "read"
+              }
+            }
+          ]
+      }}
+    ]
+  }
+}
+

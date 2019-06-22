@@ -1,0 +1,30 @@
+
+
+{
+	"publisher_name": "Pearson Education, Inc.",
+	"publisher_code": "11111111",
+	"publisher_address": "One Lake Street, Upper Saddle River, NJ 07458",
+  "book": [
+    {
+      "book_isbn": "978-0-321-82662-6",
+      "book_name": "NoSQL Distilled",
+      "book_price": "$35.00",
+      "author": [
+        {
+          "author_first_name": "Pramod",
+          "author_last_name": "Sadalage",
+          "author_phone": "(308)283-1938",
+          "author_email": "psadalage@gmail.com"
+        },
+        {
+          "author_first_name": "Martin",
+          "author_last_name": "Fowler",
+          "author_phone": "(308)987-0273",
+          "author_email": "mfowler@gmail.com"
+        }
+      ]
+    }
+  ]
+}
+
+
